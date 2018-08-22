@@ -35,3 +35,5 @@ Choose the correct answer
 2) no index
 3) Doe
 4) empty
+
+I think 4, since no function being called.
